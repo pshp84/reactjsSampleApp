@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+html, body {
+  width: 100vh;
+  height: 100%;
+  overflow: auto;
+}
+
+
+#root{
+  height: 100%;
+}
+.fullHeight {
+  height: 100% !important;
+}
